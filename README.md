@@ -1,10 +1,14 @@
-<h1 align="center">PayLight UI</h1>
+<h1>PayLight UI</h1>
 
+PayLight is a mobile banking, wallet, and payment service app.
+
+<br>
 
 <h2>Instructions</h2>
 
 Please donwload Adobe XD and open the `PayLight.xd` file
 
+<br>
 
 <h2>Screenshots</h2>
 
@@ -61,8 +65,60 @@ Please donwload Adobe XD and open the `PayLight.xd` file
             <div align="center">Send - Section 1</div>
         </td>
         <td style="border: solid #888 1px">
-            <img src="screenshots/Recent Activities Modal.png">
+            <img src="screenshots/Send Section - 2.png">
+            <div align="center">Send - Section 2</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Send Section - 2 Message.png">
+            <div align="center">Send Message - Section 2</div>
+        </td>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Send Section - 3.png">
+            <div align="center">Send - Section 1</div>
+        </td>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Send - Success.png">
             <div align="center">Recent Activities - Modal</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Pay Bills - 1.png">
+            <div align="center">Pay Bills</div>
+        </td>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Pay Bills - 2.png">
+            <div align="center">Pay Bills - Selected Service</div>
+        </td>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Pay Bills - 3.png">
+            <div align="center">Pay Bills - Confirmation</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Pay Bills - Success.png">
+            <div align="center">Pay Bills - Success</div>
+        </td>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Buy Load - 1.png">
+            <div align="center">Buy Load</div>
+        </td>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Buy Load - 2.png">
+            <div align="center">Buy Load - Selected User</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Buy Load - 3.png">
+            <div align="center">Buy Load - Confirmation</div>
+        </td>
+        <td style="border: solid #888 1px">
+            <img src="screenshots/Buy Load - Success.png">
+            <div align="center">Buy Load - Success</div>
         </td>
     </tr>
 </table>
